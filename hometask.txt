@@ -12,3 +12,64 @@ Merge remote-tracking branch 'origin/hat'
 Merge remote-tracking branch 'origin/buttons' into boots_buttons
 Merge remote-tracking branch 'origin/boots' into boots_buttons
 fix readme
+
+
+В итоге сейчас 11 коммитов, но как только я подтвержу сохранение этого файла, будет 12 (назову последний "hometask.txt changed"):
+
+Commits on Jan 28, 2024
+hometask.txt added
+TimurYandex
+TimurYandex
+committed
+2 minutes ago
+Merge branch 'boots_buttons'
+TimurYandex
+TimurYandex
+committed
+10 minutes ago
+Merge remote-tracking branch 'origin/hat'
+TimurYandex
+TimurYandex
+committed
+11 minutes ago
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+TimurYandex
+TimurYandex
+committed
+44 minutes ago
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+TimurYandex
+TimurYandex
+committed
+2 hours ago
+Commits on Jun 29, 2016
+fix readme
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+dots
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+README added
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+boots
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+heat added
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
+init
+MobDev-Hobby
+MobDev-Hobby
+committed
+8 years ago
